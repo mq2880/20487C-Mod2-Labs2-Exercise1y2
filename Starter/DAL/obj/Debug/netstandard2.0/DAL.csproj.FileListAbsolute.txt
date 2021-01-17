@@ -1,0 +1,9 @@
+D:\20487C\Labs\20487C-Mod2-Labs2-Exercise1y2\Starter\DAL\bin\Debug\netstandard2.0\DAL.deps.json
+D:\20487C\Labs\20487C-Mod2-Labs2-Exercise1y2\Starter\DAL\bin\Debug\netstandard2.0\DAL.dll
+D:\20487C\Labs\20487C-Mod2-Labs2-Exercise1y2\Starter\DAL\bin\Debug\netstandard2.0\DAL.pdb
+D:\20487C\Labs\20487C-Mod2-Labs2-Exercise1y2\Starter\DAL\obj\Debug\netstandard2.0\DAL.csprojAssemblyReference.cache
+D:\20487C\Labs\20487C-Mod2-Labs2-Exercise1y2\Starter\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfoInputs.cache
+D:\20487C\Labs\20487C-Mod2-Labs2-Exercise1y2\Starter\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfo.cs
+D:\20487C\Labs\20487C-Mod2-Labs2-Exercise1y2\Starter\DAL\obj\Debug\netstandard2.0\DAL.csproj.CoreCompileInputs.cache
+D:\20487C\Labs\20487C-Mod2-Labs2-Exercise1y2\Starter\DAL\obj\Debug\netstandard2.0\DAL.dll
+D:\20487C\Labs\20487C-Mod2-Labs2-Exercise1y2\Starter\DAL\obj\Debug\netstandard2.0\DAL.pdb
